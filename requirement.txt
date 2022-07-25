@@ -1,0 +1,7 @@
+pyspark==3.0.1
+pymongo==3.11.0
+dnspython==1.16.0
+PyYAML
+pandas
+sklearn
+-e .
